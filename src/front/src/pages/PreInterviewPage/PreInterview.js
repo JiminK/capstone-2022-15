@@ -11,12 +11,12 @@ import Footer from '../components/Footer';
 class PreInterview extends Component {
     render() {
         return (
-            <div>
+            // <div>
                 <div className="PreInterviewApp">
                     <Navbar/>
                     <PageDescription></PageDescription>
                     <CamSetting></CamSetting>
-                </div>
+                {/* </div> */}
                 <div className="PreInterviewAppFooter">
                     <Footer/>
                 </div>
