@@ -161,6 +161,8 @@
     text-decoration: none;
 }
 
+.start-button
+
 .start-button {
     display: flex;
     flex-direction: row;
